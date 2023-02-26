@@ -1,7 +1,6 @@
 name: Run SonarQube with Maven
 
 on: push
-
 jobs:
   build:
     runs-on: ubuntu-latest
